@@ -2,11 +2,11 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: Ryan
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroText: 学习心得
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 记录本人学习计算机编程以及人工智能的过程和心得
 projects:
   - icon: project
     name: 项目名称
