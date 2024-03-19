@@ -93,6 +93,10 @@ export default hopeTheme({
     comment: {
       provider: "Waline",
       serverURL: "https://comment.dailyrecord4ryan.com/",
+      comment: true, // 评论数统计
+      pageview: true, // 浏览量统计
+      copyright: false,
+      dark: "auto",
     },
 
     components: {
