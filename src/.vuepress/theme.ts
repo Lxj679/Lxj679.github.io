@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "/assets/logo1.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "Lxj679",
 
   docsDir: "src",
 
