@@ -232,5 +232,12 @@ export default hopeTheme({
     //     ],
     //   },
     // },
+    copyright: {
+      author: "Ryan",
+      global: true,
+      triggerLength: 100,
+      disableCopy: false,
+      disableSelection: false,
+    },
   },
 });
