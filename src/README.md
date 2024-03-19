@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: Ryan
-heroImage: /assets/logo.jpg
+heroImage: /assets/logo1.png
 heroText: 学习心得
 heroFullScreen: true
 tagline: 记录本人学习计算机编程以及人工智能的过程和心得
