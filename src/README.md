@@ -1,6 +1,7 @@
 ---
 home: true
 layout: BlogHome
+bgImage: /assets/bgimage.png
 icon: home
 title: Ryan
 heroImage: /assets/logo1.png
