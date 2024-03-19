@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: Ryan
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: /assets/logo.jpg
 heroText: 学习心得
 heroFullScreen: true
 tagline: 记录本人学习计算机编程以及人工智能的过程和心得
