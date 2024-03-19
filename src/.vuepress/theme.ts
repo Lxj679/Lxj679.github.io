@@ -31,6 +31,8 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
+    name: "Lil Passionfruit",
+    avatar: "/assets/avatar.jpg",
     description: "一个前端开发者",
     intro: "/intro.html",
     medias: {
@@ -133,6 +135,7 @@ export default hopeTheme({
       sup: true,
       tabs: true,
       vPre: true,
+      
 
       // 在启用之前安装 chart.js
       // chart: true,
