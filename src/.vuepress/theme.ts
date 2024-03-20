@@ -4,11 +4,11 @@ import sidebar from "./sidebar.js";
 import { MR_HOPE_AVATAR } from "./logo.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://dailyrecord4ryan.com",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "Ryan",
+    url: "https://dailyrecord4ryan.com",
   },
 
   iconPrefix: "iconfont icon-",
