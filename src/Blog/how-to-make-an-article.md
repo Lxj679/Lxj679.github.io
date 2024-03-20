@@ -65,6 +65,8 @@ toc: true
 
 1.截图alt + 1 或者复制，然后粘贴
 
+   或者ctrl + Windows + s 
+
 2.右键点击图片缩放图片
 
 ## 4.表格
@@ -88,6 +90,8 @@ toc: true
 ```
 
 [点击这里](https://dailyrecord4ryan.com)
+
+注意：在本地，点击网站必须按下ctrl
 
 ###  6.无序标题
 
@@ -121,7 +125,7 @@ toc: true
 
 ---
 
-## 9.公式（后续补充）
+## 9.公式
 
 ```python
 '$$'
@@ -129,3 +133,8 @@ toc: true
 ```
 
 $x^2 + y_1 + \sqrt{10} + \frac{1}{2}$
+
+## 10. 其他
+
+markdown还有其他功能，想查看教程可以去[here](https://theme-hope.vuejs.press/zh/guide/markdown/)
+

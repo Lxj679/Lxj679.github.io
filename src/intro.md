@@ -1,9 +1,9 @@
 ---
 title: 关于博主
 date: 2023-05-02 07:34:08
-author: AI悦创
+author: Ryan
 isOriginal: true
-category: Python 网络爬虫专栏
+category: daily
 tag:
     - Crawler
 icon: debug

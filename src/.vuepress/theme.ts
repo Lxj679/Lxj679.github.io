@@ -118,7 +118,9 @@ export default hopeTheme({
       imgLazyload: true,
       imgSize: true,
       include: true,
+      tabs: true,
       mark: true,
+      hint: true,
       stylize: [
         {
           matcher: "Recommended",
@@ -134,7 +136,6 @@ export default hopeTheme({
       ],
       sub: true,
       sup: true,
-      tabs: true,
       vPre: true,
       
 
