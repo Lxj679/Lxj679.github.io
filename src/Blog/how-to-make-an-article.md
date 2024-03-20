@@ -1,0 +1,132 @@
+---
+title: 文章编写
+date: 2024-03-20 14:40:34
+author:	Ryan
+isOriginal: true
+category: 
+    - Tool
+tag:
+    - 科普
+    - 一些工具的使用
+icon: debug
+sticky: false
+star: false
+article: true
+timeline: true
+image: false
+navbar: true
+sidebarIcon: true
+headerDepth: 5
+comment: true
+lastUpdated: true
+editLink: true
+backToTop: true
+toc: true
+---
+
+## 1.文章标题编写
+
+从二级到六级标题：
+
+```python
+## 二级
+
+### 三级
+
+#### 四级
+
+#####  五级
+
+###### 六级
+```
+
+
+
+## 二级
+
+### 三级
+
+#### 四级
+
+#####  五级
+
+###### 六级
+
+点击文章标题进文章
+
+## 2.代码块
+
+1.（英文输入法) 写出下面这句话;
+
+```python
+```pthon
+```
+
+## 3.图片
+
+1.截图alt + 1 或者复制，然后粘贴
+
+2.右键点击图片缩放图片
+
+## 4.表格
+
+法一：右键插入，选择‘表格’
+
+|      |      |
+| ---- | ---- |
+|      |      |
+
+法二：(英文下)  |标题|名称|
+
+| 标题 | 名称 |
+| ---- | ---- |
+|      |      |
+
+## 5.链接
+
+```python
+[链接名称](网址)
+```
+
+[点击这里](https://dailyrecord4ryan.com)
+
+###  6.无序标题
+
+```python
+'- ' 
+```
+
+- 你好
+
+- 再见
+
+## 7.有序标题
+
+```python
+'1. '
+最后序号的结果都是等差递增
+```
+
+1. hello
+2. hi
+3. hola
+4. bye
+5. sayya
+
+## 8.分割线
+
+```python
+'---'
+如下
+```
+
+---
+
+## 9.公式（后续补充）
+
+```python
+'$$'
+'$x^2 + y_1 + \sqrt{10} + \frac{1}{2}$'
+```
+
+$x^2 + y_1 + \sqrt{10} + \frac{1}{2}$
