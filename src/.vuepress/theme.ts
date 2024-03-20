@@ -11,7 +11,8 @@ export default hopeTheme({
     url: "https://mister-hope.com",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconPrefix: "iconfont icon-",
+  iconAssets: "https://bornforthis.cn/icon/iconfont.css",
 
   logo: "/assets/logo1.png",
 
