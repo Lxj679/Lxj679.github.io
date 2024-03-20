@@ -1,7 +1,6 @@
 ---
 title: 文章编写
 date: 2024-03-20 14:40:34
-author:	Ryan
 isOriginal: true
 category:
     - Tool
