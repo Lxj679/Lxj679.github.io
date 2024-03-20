@@ -14,7 +14,7 @@ export default hopeTheme({
   iconPrefix: "iconfont icon-",
   iconAssets: "https://bornforthis.cn/icon/iconfont.css",
 
-  logo: "/assets/logo.png",
+  logo: "/assets/logo2.png",
 
   repo: "Lxj679",
 
