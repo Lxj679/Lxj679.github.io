@@ -6,10 +6,15 @@ export default defineUserConfig({
 
   lang: "zh-CN",
   title: "Website of Ryan",
-  description: "vuepress-theme-hope 的博客演示",
+  description: "void",
 
   theme,
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,
+  markdown: {
+    headers: {
+      level: [2, 3, 4, 5, 6],
+    }
+  }
 });
