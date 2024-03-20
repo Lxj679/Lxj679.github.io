@@ -34,7 +34,7 @@ export default hopeTheme({
   blog: {
     name: "Lil Passionfruit",
     avatar: "/assets/avatar.jpg",
-    description: "一个前端开发者",
+    description: "a strange coder",
     intro: "/intro.html",
     medias: {
       // Baidu: "https://example.com",
