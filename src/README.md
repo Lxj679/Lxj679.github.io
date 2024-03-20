@@ -4,7 +4,7 @@ layout: BlogHome
 bgImage: /assets/bgimage1.png
 icon: home
 title: Ryan
-heroImage: /assets/logo.png
+heroImage: /assets/logo1.png
 heroText: Shelter for free spirit
 heroFullScreen: true
 tagline: The site is used to record what I have seen and learned in my lifetime, including but not limited to computers, artificial intelligence, mathematics, pop culture, travel, photography, music, aesthetic accumulation etc.
