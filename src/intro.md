@@ -1,11 +1,14 @@
 ---
 title: 关于博主
-date: 2023-05-02 07:34:08
+date: 2024-03-21 00:59:24
 author: Ryan
 isOriginal: true
-category: daily
+category: 
+    -daily
+    -about me
 tag:
-    - Crawler
+    - 'nonsense'
+    - 'some strange mankind'
 icon: debug
 sticky: false
 star: false
@@ -24,4 +27,3 @@ toc: true
 
 # 介绍页
 
-将你的个人介绍和档案放置在此处。
