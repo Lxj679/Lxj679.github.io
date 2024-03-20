@@ -32,7 +32,7 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    name: "Lil Passionfruit",
+    name: "Ryan",
     avatar: "/assets/avatar.jpg",
     description: "a strange coder",
     intro: "/intro.html",
