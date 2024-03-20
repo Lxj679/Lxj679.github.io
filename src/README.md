@@ -7,7 +7,7 @@ title: Ryan
 heroImage: /assets/logo.png
 heroText: Shelter for free spirit
 heroFullScreen: true
-tagline: The site is used to record what I have seen and learned in my life, including but not limited to computers, artificial intelligence, mathematics, pop culture, travel, photography, music, aesthetic accumulation
+tagline: The site is used to record what I have seen and learned in my lifetime, including but not limited to computers, artificial intelligence, mathematics, pop culture, travel, photography, music, aesthetic accumulation etc.
 projects:
   - icon: project
     name: 项目名称
