@@ -5,9 +5,9 @@ bgImage: /assets/bgimage1.png
 icon: home
 title: Ryan
 heroImage: /assets/logo.png
-heroText: 学习心得
+heroText: Shelter for free spirit
 heroFullScreen: true
-tagline: 记录本人学习计算机编程以及人工智能的过程和心得
+tagline: The site is used to record what I have seen and learned in my life, including but not limited to computers, artificial intelligence, mathematics, pop culture, travel, photography, music, aesthetic accumulation
 projects:
   - icon: project
     name: 项目名称
