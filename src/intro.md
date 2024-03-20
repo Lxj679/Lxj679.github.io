@@ -4,7 +4,7 @@ date: 2024-03-21 00:59:24
 author: Ryan
 isOriginal: true
 category: 
-    -daily
+  
     -about me
 tag:
     - 'nonsense'
