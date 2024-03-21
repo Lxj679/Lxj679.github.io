@@ -1,6 +1,6 @@
 ---
-title: 怎么样安装
-date: 2024-03-20 14:40:34
+title: python安装库方法
+date: 2024-03-21 15:43:15
 isOriginal: true
 category:
     - tips
@@ -23,3 +23,42 @@ backToTop: true
 toc: true
 ---
 
+##  1. 通过命令行安装
+
+无论是Mac还是Windows，都有两种命令行。一种是系统自带的命令行，另一种是Pycharm命令行。
+
+这里，主要带你使用Pycharm命令行来安装，比较通用。
+
+### 1.1 打开Pycharm
+
+![image-20240321152320036](./how-to-install-module.assets/image-20240321152320036.png)
+
+### 1.2 使用 pip 安装
+
+比如我们这里需要安装 numpy 库，我们则使用如下命令：
+
+```python
+pip install numpy
+#pip install 你需要安装的库名称
+```
+
+###  1.3 在 Terminal 执行命令
+
+![image-20240321153442534](./how-to-install-module.assets/image-20240321153442534.png)
+在Terminal命令行中写如上命令，回车
+
+
+![image-20240321153502708](./how-to-install-module.assets/image-20240321153502708.png)
+
+若安装完毕，会出现如上提示
+
+
+
+![image-20240321153522704](./how-to-install-module.assets/image-20240321153522704.png)
+
+如果出现这样的报错，则是网络问题，例如vpn代理未关闭
+
+
+
+![image-20240321153735472](./how-to-install-module.assets/image-20240321153735472.png)
+关闭vpn代理的方法
