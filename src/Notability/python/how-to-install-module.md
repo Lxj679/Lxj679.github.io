@@ -44,21 +44,21 @@ pip install numpy
 
 ###  1.3 在 Terminal 执行命令
 
-![image-20240321153442534](./how-to-install-module.assets/image-20240321153442534.png)
-在Terminal命令行中写如上命令，回车
-
-
-![image-20240321153502708](./how-to-install-module.assets/image-20240321153502708.png)
-
-若安装完毕，会出现如上提示
+![在Terminal命令行中写如上命令，回车](./how-to-install-module.assets/image-20240321153442534.png)
 
 
 
-![image-20240321153522704](./how-to-install-module.assets/image-20240321153522704.png)
 
-如果出现这样的报错，则是网络问题，例如vpn代理未关闭
-
+![若安装完毕，会出现如上提示](./how-to-install-module.assets/image-20240321153502708.png)
 
 
-![image-20240321153735472](./how-to-install-module.assets/image-20240321153735472.png)
-关闭vpn代理的方法
+
+
+
+![如果出现这样的报错，则是网络问题，例如vpn代理未关闭](./how-to-install-module.assets/image-20240321153522704.png)
+
+
+
+
+
+![关闭vpn代理的方法](./how-to-install-module.assets/image-20240321153735472.png)
