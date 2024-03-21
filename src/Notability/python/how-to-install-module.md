@@ -62,3 +62,13 @@ pip install numpy
 
 
 ![关闭vpn代理的方法](./how-to-install-module.assets/image-20240321153735472.png)
+
+
+
+## 2. 通过Pycharm直接安装
+
+### 2.1 随便一个Pycharm代码文件
+
+随便一个Python的代码文件中，导入你所需要的库，无论是否安装。
+
+![image-20240321155415523](./how-to-install-module.assets/image-20240321155415523.png)
