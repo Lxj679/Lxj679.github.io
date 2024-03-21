@@ -79,3 +79,4 @@ pip install numpy
 
 ![image-20240321155832297](./how-to-install-module.assets/image-20240321155832297.png)
 
+注意，无论哪种安装方式vpn网络问题都会对下载造成影响
