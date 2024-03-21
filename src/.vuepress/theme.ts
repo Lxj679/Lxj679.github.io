@@ -118,9 +118,10 @@ export default hopeTheme({
       imgLazyload: true,
       imgSize: true,
       include: true,
-      tabs: true,
+      tabs: true, //没掌握
       mark: true,
       hint: true,
+      kotlinPlayground: true, //没掌握
       stylize: [
         {
           matcher: "Recommended",

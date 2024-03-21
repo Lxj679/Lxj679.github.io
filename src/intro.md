@@ -7,7 +7,7 @@ category:
     -about me
 tag:
     - 'nonsense'
-    - 'some strange mankind'
+    - '一些奇怪的人类'
 icon: debug
 sticky: false
 star: false

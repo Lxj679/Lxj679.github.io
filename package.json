@@ -1,7 +1,7 @@
 {
   "name": "passionfruit",
   "version": "2.0.0",
-  "description": "用于记录个人学习编程以及其他计算机知识的心得",
+  "description": "The site is used to record what I have seen and learned in my lifetime, including but not limited to computers, artificial intelligence, mathematics, pop culture, travel, photography, music, aesthetic accumulation etc.",
   "license": "MIT",
   "type": "module",
   "scripts": {
