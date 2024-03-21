@@ -72,3 +72,10 @@ pip install numpy
 随便一个Python的代码文件中，导入你所需要的库，无论是否安装。
 
 ![image-20240321155415523](./how-to-install-module.assets/image-20240321155415523.png)
+
+### 2.2  开始安装
+
+鼠标点击numpy库，然后按住键盘alt键 + Enter。
+
+![image-20240321155832297](./how-to-install-module.assets/image-20240321155832297.png)
+
