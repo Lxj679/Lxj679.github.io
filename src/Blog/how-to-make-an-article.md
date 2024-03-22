@@ -134,16 +134,38 @@ toc: true
 
 $x^2 + y_1 + \sqrt{10} + \frac{1}{2}$​
 
-## 字体
+## 10. 字体
+
+### 10.1 加粗字体
 
 ```python
 ** **
 ctrl + b
 ```
 
+### 10.2 变换字体颜色
+
+```python
+**<span style="color: orange">这句话的颜色会改变</span>**
+```
+
+***<span style="color: orange">这句话的颜色会改变。</span>***
 
 
-## 10. 其他
+
+
+
+
+
+## 11. 如何显示渲染前的文本效果
+
+```python
+ctrl + /
+```
+
+
+
+## 12. 其他
 
 markdown还有其他功能，想查看教程可以去[here](https://theme-hope.vuejs.press/zh/guide/markdown/)
 
