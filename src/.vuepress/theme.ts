@@ -121,7 +121,7 @@ export default hopeTheme({
       tabs: true, //没掌握
       mark: true,
       hint: true,
-      kotlinPlayground: true, //没掌握
+      // kotlinPlayground: true, //没掌握
       stylize: [
         {
           matcher: "Recommended",
