@@ -1,5 +1,5 @@
 ---
-title:课后练习——变量
+title: 课后练习——变量
 date: 2024-03-23 18:37:21
 isOriginal: true
 category:
