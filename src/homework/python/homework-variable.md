@@ -3,10 +3,10 @@ title:课后练习——变量
 date: 2024-03-23 18:37:21
 isOriginal: true
 category:
-    - homework
+     - homework
 tag:
-    - python
-    - 练习题
+     - python
+     - 练习题
 icon: python
 sticky: false
 star: false
