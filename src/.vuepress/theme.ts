@@ -123,8 +123,7 @@ export default hopeTheme({
       hint: true,
       // kotlinPlayground: true, //没掌握
       tasklist: true,
-      flowchart: true,
-
+      footnote: true,
 
 
       stylize: [
