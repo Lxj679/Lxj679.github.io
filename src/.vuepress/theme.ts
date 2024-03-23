@@ -122,6 +122,17 @@ export default hopeTheme({
       mark: true,
       hint: true,
       // kotlinPlayground: true, //没掌握
+      // 启用下角标功能
+      sub: true,
+      // 启用上角标
+      sup: true,
+
+
+
+
+
+
+      
       stylize: [
         {
           matcher: "Recommended",
