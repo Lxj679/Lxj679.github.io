@@ -122,7 +122,7 @@ export default hopeTheme({
       mark: true,
       hint: true,
       // kotlinPlayground: true, //没掌握
-    
+      tasklist: true,
 
 
 
