@@ -155,19 +155,21 @@ ctrl + b
 
 ***<span style="color: orange">这句话的颜色会改变。</span>***
 
-###  
+## 11. 文本效果
+
+#### 11.1 方框
 
 ```python
-`你要 的文字`
+`你要放入方框中的文本`
 ```
 
+`你想要放入方框中的文本`
 
 
 
 
 
-
-## 11. 如何显示渲染前的文本效果
+## 12. 如何显示渲染前的文本效果
 
 ```python
 ctrl + /
@@ -175,7 +177,7 @@ ctrl + /
 
 
 
-## 12. 其他
+## 13. 其他
 
 markdown还有其他功能，想查看教程可以去[here](https://theme-hope.vuejs.press/zh/guide/markdown/)
 
