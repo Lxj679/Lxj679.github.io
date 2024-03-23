@@ -155,6 +155,12 @@ ctrl + b
 
 ***<span style="color: orange">这句话的颜色会改变。</span>***
 
+###  
+
+```python
+`你要 的文字`
+```
+
 
 
 
