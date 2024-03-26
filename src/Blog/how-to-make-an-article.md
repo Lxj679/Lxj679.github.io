@@ -201,3 +201,11 @@ markdown还有其他功能，想查看教程可以去[here](https://theme-hope.v
 
 
 
+## 1
+
+```python
+::: details xxxx
+
+:::
+```
+
