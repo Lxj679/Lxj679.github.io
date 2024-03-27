@@ -199,9 +199,9 @@ ctrl + /
 
 markdown还有其他功能，想查看教程可以去[here](https://theme-hope.vuejs.press/zh/guide/markdown/)
 
+部分效果需要安装插件才得以实现，请查看如上链接中的安装和使用教程
 
-
-## 1
+例如
 
 ```python
 ::: details xxxx
@@ -213,6 +213,19 @@ markdown还有其他功能，想查看教程可以去[here](https://theme-hope.v
 
 ```python
 ::: info xxxx
+
+:::
+```
+
+
+
+```python
+:::code-tabs
+@tab xxxx
+```python
+
+@tab xxxx
+```python
 
 :::
 ```
