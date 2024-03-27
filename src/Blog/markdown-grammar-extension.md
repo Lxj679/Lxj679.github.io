@@ -28,7 +28,7 @@ toc: true
 
 部分效果需要安装插件才得以实现，请查看如上链接中的安装和使用教程
 
-## 1. sss
+## 1.
 
 ```python
 ::: details xxxx
@@ -42,7 +42,7 @@ here is the folded content
 
 :::
 
-## 2. 
+## 2.
 
 ```python
 ::: info xxxx
@@ -50,7 +50,33 @@ here is the folded content
 :::
 ```
 
+::: info title
 
+here is the content
+
+:::
+
+## 3.
+
+##  
+
+```python
+::: tabs
+@tab xxx 
+xxxx
+@tab xxx
+xxxx
+:::
+```
+
+::: tabs
+@tab title1 
+here is the content of title1
+@tab title2 
+here is the content of title2 
+:::
+
+##  4.
 
 ```python
 :::code-tabs
@@ -63,5 +89,18 @@ here is the folded content
 :::
 ```
 
+::: code-tabs
 
+@tab code1
 
+```python1
+the content of code1
+```
+
+@tab code2
+
+```python
+the content of code2
+```
+
+:::
