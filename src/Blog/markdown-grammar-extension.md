@@ -104,3 +104,12 @@ the content of code2
 ```
 
 :::
+
+## 5. 
+
+```python
+::: tips
+
+:::
+```
+
