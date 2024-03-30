@@ -93,3 +93,42 @@ https://github.com/zbezj/HEU_KMS_Activator
 
 注意：如果出现”失败 - 检测到病毒“，则进行以下操作，没有则直接跳过
 
+![安装失败](./how-to-activate-office365.assets/image-20240330184319884.png)
+
+- 如何关闭病毒检测：
+
+![步骤1](./how-to-activate-office365.assets/image-20240330184420721.png)
+
+![步骤2](./how-to-activate-office365.assets/image-20240330184621168.png)
+
+![步骤3](./how-to-activate-office365.assets/image-20240330184721012.png)
+
+![步骤4](./how-to-activate-office365.assets/image-20240330184836588.png)
+
+图中三项安全保护确保为关闭状态
+
+![步骤5](./how-to-activate-office365.assets/image-20240330184904902.png)
+
+![检查是否成功](./how-to-activate-office365.assets/image-20240330184929130.png)
+
+再次安装文件，如果为上面所示状态则表明安装成功
+
+## 3. 解压安装包
+
+![image-20240330185101239](./how-to-activate-office365.assets/image-20240330185101239.png)
+
+打开文件后，选择自己电脑中安装的解压软件解压文件，并选择合适的安装位置，在此不多赘述。
+
+![image-20240330185410283](./how-to-activate-office365.assets/image-20240330185410283.png)
+
+4. 使用激活软件
+
+确保自己已经安装Microsoft office软件，点击运行软件，选择开始
+
+![image-20240330185613539](./how-to-activate-office365.assets/image-20240330185613539.png)
+
+
+
+若出现下图所示提示，则说明已经激活成功，可以使用office办公软件了。
+
+![image-20240330185641412](./how-to-activate-office365.assets/image-20240330185641412.png)
