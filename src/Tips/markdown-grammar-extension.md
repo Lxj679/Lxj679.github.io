@@ -113,3 +113,4 @@ the content of code2
 :::
 ```
 
+![动画](./markdown-grammar-extension.assets/%E5%8A%A8%E7%94%BB.gif)
