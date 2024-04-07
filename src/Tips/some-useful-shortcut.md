@@ -30,21 +30,29 @@ toc: true
 
 ## 1. windows 常用快捷键
 
-- 复制
+- **复制**
 
-ctrl + c
+`ctrl + c`
 
-- 粘贴
+- **粘贴**
 
-ctrl + v
+`ctrl + v`
 
-- 剪切
+- **剪切**
 
-ctrl + x
+`ctrl + x`
 
-- 截图
+- **截图**
 
-ctrl + 
+`windows + shift + s`
+
+- **全选**
+
+`ctrl + a`
+
+- **打开运行对话框**
+
+`windows + r`
 
 
 
@@ -52,17 +60,13 @@ ctrl +
 
 ## 2. pycharm
 
-- 放大（缩小）文本
+- **放大（缩小）文本**
 
-ctr + 鼠标滚轮上（下）滑动
+`ctr + 鼠标滚轮上（下）滑动`
 
-- 将文本改为批注
+- **将文本改为批注**
 
-ctrl  + /
-
-- 
-
-
+`ctrl  + /`
 
 
 
@@ -72,35 +76,61 @@ ctrl  + /
 
 - **运行本地**
 
-pnpm run docs:dev
+`pnpm run docs:dev`
 
 - **退出本地**
 
-ctr + c
+`ctr + c`
 
 - **运行本地网址**
 
-ctr + 点击网址链接
+`ctr + 点击网址链接`
 
 - **放大（缩小）命令行文本**
 
-ctr + 鼠标滚轮上（下）滑动
+`ctr + 鼠标滚轮上（下）滑动`
+
+
 
 
 
 ## 4. Typora
 
-- 加粗字体
+- **加粗字体**
 
-ctrl + b
+`ctrl + b`
+
+- **放大（缩小）文本**
+
+`ctr + 鼠标滚轮上（下）滑动`
+
+
 
 
 
 ## 5. 截图工具
 
+- **截图**
+
+`alt + 1`
+
+
+
 
 
 ## 6. 录制视频工具
+
+
+
+
+
+## 7. ipython
+
+- **运行 ipython** 
+
+在 **<span style="color: orange"> ConEmu </span>** 中输入：`ipyton`
+
+
 
 
 
