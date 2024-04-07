@@ -76,7 +76,7 @@ export default hopeTheme({
   encrypt: {
     config: {
       // "/demo/encrypt.html": ["1234"],
-      "/homework/python/homework-Variable-type.html": 'lxjlxj'
+      "/homework": 'lxjlxj'
     },
   },
 
