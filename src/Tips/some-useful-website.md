@@ -1,6 +1,6 @@
 ---
-title: some useful shortcut
-date: 2024-04-07 14:12:00
+title: some useful website
+date: 2024-04-07 14:50:07
 isOriginal: true
 author: Ryan
 category:
@@ -24,8 +24,8 @@ backToTop: true
 toc: true
 ---
 
-- 事先声明：以下快捷指令均为作者日常使用较多的快捷指令，旨在分享，并非全面的快捷指令教学。
 
 
 
-## 
+
+记得分类！
