@@ -113,6 +113,13 @@ the content of code2
 :::
 ```
 
-![动画](./markdown-grammar-extension.assets/%E5%8A%A8%E7%94%BB.gif)
 
-![图像-8](./markdown-grammar-extension.assets/%E5%9B%BE%E5%83%8F-8.png)
+
+## 6. 
+
+```python
+::: warning
+
+:::
+```
+
