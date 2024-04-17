@@ -1,1 +1,0 @@
-import{_ as o,u as n}from"./app-Zob-8YFi.js";const s=async()=>{try{const{pageviewCount:e}=await o(()=>import("./app-Zob-8YFi.js").then(r=>r.N),[]),t=n();return e({serverURL:t.serverURL})}catch{console.error("@waline/client is not installed!")}};export{s as updatePageview};
