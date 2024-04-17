@@ -36,12 +36,36 @@ toc: true
 
 ### 1.4 行列式
 
-1. 方阵的行列式
+1. 方阵的行列式（np.linalg.det()）
+
+```python
+```
+
+## 1.5 矩阵
+
+1. 
+
+
+
+3. 检验矩阵是否相等（np.allclose()）
+
+```python
+
+```
+
+4. 获取矩阵的秩（np.linalg.matrix_rank()）
+
+```python
+```
+
+5. 逆矩阵（np.linalg.inv()）
 
 ```python
 ```
 
 
+
+6. 增广矩阵（np.hastck()）
 
 ### 1.6 内积与正交
 
@@ -55,4 +79,11 @@ toc: true
 ```python
 ```
 
-3. 
+3. 对原浮点数进行四舍五入
+
+```python
+
+```
+
+
+
