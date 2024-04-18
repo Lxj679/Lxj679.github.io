@@ -68,7 +68,9 @@ toc: true
 
 `ctrl  + /`
 
+- **快速复制上一行**
 
+`ctrl + d`
 
 
 
