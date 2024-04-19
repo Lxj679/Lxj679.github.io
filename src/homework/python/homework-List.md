@@ -23,7 +23,7 @@ backToTop: true
 toc: true
 ---
 
-## 1. 
+## 1.
 
 ![b62034d01fd5794d87348700c780e64](./homework-List.assets/b62034d01fd5794d87348700c780e64.png)
 
