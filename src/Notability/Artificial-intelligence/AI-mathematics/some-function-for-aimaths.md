@@ -94,17 +94,21 @@ print(fy.evalf(subs = {x:1,y:2}))
 5. 求梯度
 
 ```python
+
 ```
 
+6. 求定积分
 
+```python
+import numpy as np
+from scipy.integrate import quad # 导入单积分函数
+func = lambda x:np.cos(np.exp(x))**2 # 定义被积分函数
+solution = quad(func, 0, 3) # 调用 quad 函数
+print(solution)
 
-
-
-
-
-
-
-
+# output
+(1.296467785724373, 1.3977971853986262e-09)
+```
 
 
 
@@ -121,7 +125,7 @@ print(fy.evalf(subs = {x:1,y:2}))
 
 1. 
 
-
+2. 
 
 3. 检验矩阵是否相等（np.allclose()）
 
